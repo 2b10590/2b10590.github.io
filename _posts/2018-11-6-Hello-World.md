@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capitalism is a gift
+title:  Capitalism is a gift
 ---
 
 Talk about capitalism’s moral superiority the next time you hear someone parroting the politicians, entertainers, academics, clerics, and professional rabble rousers who are all bemoaning the failures of capitalism.  Their only answers are to dust off the same old prescriptions that have been tried, tested, and found wanting again and again. 
