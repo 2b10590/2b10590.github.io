@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Freedom
+title:  Freedom
 ---
 Complete freedom of choice comes from capitalism. Nothing is handed to you and everything is earned. Your value comes from yourself and how valuable you want to make yourself.
 
