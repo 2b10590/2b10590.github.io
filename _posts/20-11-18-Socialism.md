@@ -9,7 +9,6 @@ The system eliminates poverty. Everyone has equal access to health care and educ
 ##socialism and its pros 
 It it doesn't reward people for being entrepreneurial and competitive. As such, it won't be as innovative as a capitalistic society.
 ![_config.yml]({{ site.baseurl }}/images/4321.jpg)
-
 ##Socialism is it worth it?
 NO it only for commies and anti americans
 [learn more](https://courses.lumenlearning.com/zelixeco201v2/chapter/the-failures-of-socialism)
