@@ -1,15 +1,15 @@
 ---
-Layout:post
+Layout: post
 Title: socialism
 ---
 
-##Socialism and its pros
+## Socialism and its pros
 The system eliminates poverty. Everyone has equal access to health care and education. No one is discriminated against. Everyone works at what one is best at and what one enjoys. If society needs jobs to be done that no one wants, it offers higher compensation to make it worthwhile.
 ![_config.yml]({{ site.baseurl }}/images/1234.jpg)
-##socialism and its pros 
+## socialism and its pros 
 It it doesn't reward people for being entrepreneurial and competitive. As such, it won't be as innovative as a capitalistic society.
 ![_config.yml]({{ site.baseurl }}/images/4321.jpg)
-##Socialism is it worth it?
+## Socialism is it worth it?
 NO it only for commies and anti americans
 [learn more](https://courses.lumenlearning.com/zelixeco201v2/chapter/the-failures-of-socialism)
 
